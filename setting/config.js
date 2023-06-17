@@ -1,5 +1,5 @@
 module.exports = {
-    token: "MTExOTUwNDEzNTMzMTUyMDUzMg.GfIJzD.byjDdthv77j0gXWXHRwFLOL8cmu_qtWFlFzbpo", 
+    token: "60fe1751ec5b71f61600874246290f2fba351b0820e99433fa48cbf14125cb71", 
     prefix: "!",
     Footer: "Tc İllegallik",
     guildID: "984404289608908860",
