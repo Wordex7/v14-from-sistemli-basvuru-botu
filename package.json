@@ -1,7 +1,7 @@
 {
-  "name": "airfax",
+  "name": "Tc İllegallik",
   "version": "4.0.0",
-  "description": "AirCod Team v14 Başvuru Sistemi",
+  "description": "Tc İllegallik Team v14 Başvuru Sistemi",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
