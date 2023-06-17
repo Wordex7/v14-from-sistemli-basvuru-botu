@@ -1,11 +1,11 @@
 module.exports = {
-    token: "", 
+    token: "366efd2f54a9a52f36a2999709535eecb91955662ac231c8ba4aa27dbeca5ace", 
     prefix: "!",
     Footer: "AirCod Team",
-    guildID: "1054006695455621200",
-    basvuruYt: "1054006695501778990",
-    yetkiRolleri: "1054006695476605010",
-    logKanalı: "1054006697246588950",
-    basvuruDurum: "1054006696382574623"
+    guildID: "984404289608908860",
+    basvuruYt: "950382314897150003",
+    yetkiRolleri: "984406479702482954",
+    logKanalı: "1119542022584418334",
+    basvuruDurum: "1119542292529807481",
 }
 
